@@ -2,6 +2,7 @@
 
 👩‍🎓 UNISANTOS
 <br>
+🐍 Python
 📘 HTML5 & CSS3 | Javascript
 
 <div align="center">
