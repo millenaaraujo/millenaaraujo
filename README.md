@@ -4,7 +4,7 @@
 <br>
 🐍 Python
 <br>
-📘 HTML5 & CSS3 | Javascript
+📘 HTML5 & CSS3
 
 <div align="center">
   <a href="https://github.com/millenaaraujo">
