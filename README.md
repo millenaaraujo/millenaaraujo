@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+👩‍💻 Quality Assurance at MODALGR
 👩‍🎓 UNISANTOS
 <br>
 🐍 Python
