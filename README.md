@@ -7,6 +7,8 @@
 🐍 Python
 <br>
 📘 HTML5 & CSS3
+<br>
+📍 Santos - SP
 
 <div align="center">
   <a href="https://github.com/millenaaraujo">
