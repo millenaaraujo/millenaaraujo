@@ -4,10 +4,6 @@
 <br>
 👩‍🎓 UNISANTOS
 <br>
-🐍 Python
-<br>
-📘 HTML5 & CSS3
-<br>
 📍 Santos - SP
 
 <div align="center">
