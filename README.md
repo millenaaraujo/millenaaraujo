@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-👩‍💻 Quality Assurance at MODALGR
+👩‍💻 Quality Assurance at
+  <a href="https://hexagon.pro/" target="_blank"><img align="center" alt="JS" height="28" width="70" src="https://hexagon.pro/_next/image?url=http%3A%2F%2Fapi.hexagonpro.info%3A1337%2Fuploads%2Flogo_site_4195ebb238.png&w=256&q=75"></a>
 <br>
 👩‍🎓 UNISANTOS
 <br>
@@ -12,11 +13,14 @@
 </div>
 <div style="display: inline_block">
   <br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
+##
   
 <div>
   <a href="https://instagram.com/mdsmillena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
