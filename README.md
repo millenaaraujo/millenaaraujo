@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👩‍💻 Quality Assurance at
-  <a href="https://hexagon.pro/" target="_blank"><img align="center" alt="JS" height="28" width="70" src="https://hexagon.pro/_next/image?url=http%3A%2F%2Fapi.hexagonpro.info%3A1337%2Fuploads%2Flogo_site_4195ebb238.png&w=256&q=75"></a>
+  <a href="https://hexagon.pro/" target="_blank"><img align="center" alt="JS" height="38" width="80" src="https://i.ibb.co/7YfkSFY/logohx.png"></a>
 <br>
 👩‍🎓 UNISANTOS
 <br>
