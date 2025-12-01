@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👩‍💻 Especialista em T.I.
+👩‍💻 Low-coder
 <br>
 📍 Santos - SP
 
